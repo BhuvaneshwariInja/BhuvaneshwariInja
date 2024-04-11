@@ -1,5 +1,5 @@
 <h1 align="center">Hello Bhuvaneshwari here!</h1>
-<h3 align="center">A problem solver, tech enthusiast and a passionate full stack developer</h3>
+<h3 align="center">A problem solver and a data enthusiast who wants to dive deep into the field of data analytics </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
